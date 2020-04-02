@@ -5,11 +5,9 @@ date: "4/1/2020"
 output: html_document
 ---
 
-<<<<<<< HEAD
+
 #Pickle
-=======
 #Update
->>>>>>> c034931c6b0146db6ba02819af94d43ee1e5db09
 ```{r}
 a=3
 ```
